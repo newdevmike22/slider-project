@@ -1,6 +1,10 @@
+import Carousel from "./components/Carousel";
+
 const App = () => {
   return (
-    <h1>Slider Project</h1>
+    <main>
+      <Carousel />
+    </main>
   )
 };
 
