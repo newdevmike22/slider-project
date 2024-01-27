@@ -62,3 +62,36 @@
 .next-slide {
   transform: translateX(100%);
 }
+
+/* Slick CSS */
+
+.slick-container {
+  margin: 0 auto;
+  margin-top: 10rem;
+  width: 80vw;
+  max-width: 800px;
+  text-align: center;
+}
+
+.slick-prev::before,
+.slick-next::before {
+  font-size: 2.25rem !important;
+  color: #0e14a1 !important;
+}
+
+/* Ensure equal margins on both sides */
+.slick-prev,
+.slick-next {
+  width: 30px; /* Set a fixed width to ensure equal margins */
+  height: 100%; /* Make sure the icons take the full height of the container */
+  margin-left: -5px; /* Negative margin to compensate for the fixed width */
+}
+
+
+.slick-prev:hover::before {
+  color: #64748b !important; 
+}
+
+.slick-next:hover::before {
+  color: #64748b !important; 
+}

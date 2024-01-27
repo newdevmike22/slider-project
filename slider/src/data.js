@@ -3,7 +3,7 @@ export const shortList = [
         id: 1,
         image: "/images/george.jpg",
         name: "george clinton",
-        title: "mad scientist",
+        title: "dr. funkenstein",
         quote: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     },
 ];
@@ -13,7 +13,7 @@ export const List = [
         id: 1,
         image: "/images/george.jpg",
         name: "george clinton",
-        title: "mad scientist",
+        title: "dr. funkenstein",
         quote: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     },
     {
@@ -44,7 +44,7 @@ export const LongList = [
         id: 1,
         image: "/images/george.jpg",
         name: "george clinton",
-        title: "mad scientist",
+        title: "dr. funkenstein",
         quote: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     },
     {
